@@ -1,4 +1,4 @@
-<strong>DDOS-Attack</strong>
+<strong>DDOS Attack</strong>
 
 
 
