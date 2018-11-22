@@ -6,10 +6,10 @@ Usage :
 
 
 </br>
-git clone https://github.com/Ha3MrX/DDos-Attack
+git clone https://github.com/johnmelodyme/denyservice.git
 </br>
-cd DDos-Attack
+cd denyservice
 </br>
-chmod +x ddos-attack.py
+chmod +x ddos.py
 </br>
-python ddos-attack.py
+python ddos.py
